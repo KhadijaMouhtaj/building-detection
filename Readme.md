@@ -28,9 +28,7 @@ Dans le repo, le dataset nettoyé est fourni :
 - `Notebook_Prediction_Energie_Batiments_VF.ipynb` : notebook principal avec l’entraînement et les tests du MLP from scratch  
 - `ENB2012_data_clean.csv` : dataset nettoyé  
 - `README.md` : ce fichier de documentation  
-- (optionnel) `requirements.txt` : liste des dépendances Python
 
----
 
 ## 🚀 Installation
 Cloner le projet et installer les dépendances :
@@ -38,3 +36,4 @@ Cloner le projet et installer les dépendances :
 git clone https://github.com/<ton-user>/<ton-repo>.git
 cd <ton-repo>
 pip install -r requirements.txt
+
