@@ -33,14 +33,14 @@ Le dataset nettoyé est fourni : `ENB2012_data_clean.csv`
 
 ## 🚀 Installation & Exécution
 1. Cloner le projet :
-
+---
 git clone https://github.com/<ton-user>/<ton-repo>.git
 cd <ton-repo>
 Installer les dépendances :
 pip install -r requirements.txt
 Ouvrir le notebook :
 jupyter notebook Notebook_Prediction_Energie_Batiments_VF.ipynb
-
+---
 ## 📈 Résultats
 Le modèle MLP from scratch a permis de prédire les besoins énergétiques avec une erreur moyenne inférieure à 20% .
 
@@ -56,5 +56,6 @@ Matplotlib : visualisation des performances
 ## 📬 Contact
 Projet académique réalisé par Khadija Mouhtaj.
 N’hésitez pas à me contacter pour plus d’informations.
+
 
 
