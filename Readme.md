@@ -33,7 +33,7 @@ Le dataset nettoyé est fourni : `ENB2012_data_clean.csv`
 
 ## 🚀 Installation & Exécution
 1. Cloner le projet :
-```bash
+
 git clone https://github.com/<ton-user>/<ton-repo>.git
 cd <ton-repo>
 Installer les dépendances :
@@ -56,3 +56,4 @@ Matplotlib : visualisation des performances
 ## 📬 Contact
 Projet académique réalisé par Khadija Mouhtaj.
 N’hésitez pas à me contacter pour plus d’informations.
+
