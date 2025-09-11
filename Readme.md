@@ -42,7 +42,7 @@ Ouvrir le notebook :
 jupyter notebook Notebook_Prediction_Energie_Batiments_VF.ipynb
 
 ## 📈 Résultats
-Le modèle MLP from scratch a permis de prédire les besoins énergétiques avec une erreur moyenne inférieure à XX% (ajoute ton résultat exact si dispo).
+Le modèle MLP from scratch a permis de prédire les besoins énergétiques avec une erreur moyenne inférieure à 20% .
 
 Visualisation des courbes d’apprentissage (loss vs epochs).
 
@@ -56,4 +56,5 @@ Matplotlib : visualisation des performances
 ## 📬 Contact
 Projet académique réalisé par Khadija Mouhtaj.
 N’hésitez pas à me contacter pour plus d’informations.
+
 
